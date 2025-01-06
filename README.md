@@ -1,1 +1,1 @@
-#EECS Academy
+EECS Academy
